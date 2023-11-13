@@ -1,5 +1,5 @@
 # Computer vision and machine learning researcher roadmap [WIP]
-
+### [Recommended roadmap](https://github.com/chris-chris/ml-engineer-roadmap) 
 ### 1. **Foundational Knowledge:**
    - **Machine Learning Basics:**
       - Understand fundamental concepts such as supervised and unsupervised learning, classification, regression, and clustering.
